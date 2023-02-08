@@ -4,5 +4,11 @@
         "title": "Grapes",
         "plant": "Uzbekistan",
         "price": "30000"
+    },
+    {
+        "id": "75ce53a4-eae3-4926-bf89-3fffb64aa9da",
+        "title": "Mango",
+        "plant": "Brazil",
+        "price": "80000"
     }
 ]
