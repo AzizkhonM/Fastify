@@ -1,0 +1,26 @@
+[
+    {
+        "id": "efbf35bf-a9c6-42ef-a0e7-4b430340acc1",
+        "title": "Product 4",
+        "description": "This is a product",
+        "price": "100.00"
+    },
+    {
+        "id": "08aad284-e71e-451f-9ce5-2a3c1ce611b1",
+        "title": "Product 3 ",
+        "description": "This is a product",
+        "price": "100.00"
+    },
+    {
+        "id": "4b696799-b41c-46f9-ac6f-9193b090b2f8",
+        "title": "Product 4 ",
+        "description": "This is a product",
+        "price": "100.00"
+    },
+    {
+        "id": "fbc9baf2-175b-4542-b58f-2a0274c971fe",
+        "title": "Product 433333",
+        "description": "This is a product22222",
+        "price": "100.00"
+    }
+]
