@@ -4,6 +4,7 @@ const fastify = require("fastify")({
 
 const productRoutes = require("./routes/product.routes");
 const carRoutes = require("./routes/car.routes")
+const fruitRoutes = require("./routes/fruit.routes")
 const swagger = require("./utils/swagger");
 
 fastify.register(require("fastify-swagger"), swagger.options);
@@ -12,11 +13,13 @@ productRoutes.forEach((route) => {
   fastify.route(route);
 });
 
-
 carRoutes.forEach((route) => {
   fastify.route(route);
 });
 
+fruitRoutes.forEach((route) => {
+  fastify.route(route);
+});
 
 const start = async () => {
   try {
