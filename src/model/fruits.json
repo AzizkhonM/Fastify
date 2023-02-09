@@ -10,5 +10,11 @@
         "title": "Mango",
         "plant": "Brazil",
         "price": "80000"
+    },
+    {
+        "id": "2a471838-8ff0-4e54-802a-b356c3bbf39c",
+        "title": "Apple",
+        "plant": "Uzbekistan",
+        "price": "15000"
     }
 ]
